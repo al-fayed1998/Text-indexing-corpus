@@ -1,0 +1,8 @@
+__MACOSX/
+.DS_Store
+*.zip
+index.json
+tf.json
+idf.json
+data/
+.ipynb_checkpoints/
